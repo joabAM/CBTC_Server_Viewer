@@ -1,6 +1,6 @@
 # CBTC Server logs Viewver
 
-Python tool designed to improve the visualization, analysis, and interpretation of CBTC communication messages, reducing troubleshooting time and facilitating incident investigation for maintenance team.
+Python tool designed to improve the visualization, analysis, and interpretation of CBTC communication messages, reducing troubleshooting time and facilitating incident investigation for maintenance team - Linea 2 Lima Proyect.
 
 > ⚠️ Public showcase repository.
 > Source code is maintained in a private repository due to security.
