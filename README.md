@@ -72,7 +72,8 @@ The application was developed to simplify the analysis process by presenting inf
 ### October 2026
 - Adding Wireshark traces
 
-
+### November 2026
+- Adding Multiple files for reading, also sorting date time
 
 
 ---
